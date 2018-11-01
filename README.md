@@ -11,4 +11,4 @@ UC 国际研发部，我们正构建两印最大的内容生产和分发平台�
 ### 职位
 
 - [高级前端工程师](senior-front-end-engineer.md)
-- [前端开发专家（增长黑客方向）](front-end-expert.md)
+- [前端开发专家](front-end-expert.md)
