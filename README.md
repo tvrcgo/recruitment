@@ -1,6 +1,6 @@
 # Join us
 
-我们招人啦！
+我们招人！
 
 ### 团队
 
@@ -11,5 +11,4 @@ UC 国际研发部，我们正构建两印最大的内容生产和分发平台�
 ### 职位
 
 - [高级前端工程师](senior-front-end-engineer.md)
-- [前端开发专家](front-end-expert.md)
 - [前端工程师（外包）](front-end-outsource.md)
